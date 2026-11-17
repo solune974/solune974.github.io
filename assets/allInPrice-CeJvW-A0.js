@@ -1,0 +1,1 @@
+import{D as e}from"./pricing-DxfofBp5.js";const u=(n,i=e.default)=>{const t=Number(n);if(!Number.isFinite(t)||t<=0)return 0;const r=Number.isFinite(i)&&i>=0&&i<1?i:e.default;return Math.ceil(t*(1+r)-1e-9)};export{u as a};

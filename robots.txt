@@ -1,0 +1,3 @@
+# Site en préparation : aucune page n'est ouverte aux robots pour le moment.
+User-agent: *
+Disallow: /

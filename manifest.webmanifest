@@ -1,0 +1,23 @@
+{
+  "name": "Insol’Luxe — Villas et biens de prestige à La Réunion",
+  "short_name": "Insol’Luxe",
+  "description": "Villas avec piscine, demeures créoles, domaines privés, chalets des Hauts, penthouses et yachts à La Réunion.",
+  "lang": "fr",
+  "id": "/",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A1F28",
+  "theme_color": "#12303D",
+  "categories": ["travel", "lifestyle"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Voir les biens", "url": "/hebergements", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Mes réservations", "url": "/dashboard", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
